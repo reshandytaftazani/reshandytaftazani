@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/reshandytaftazani/"><img src="https://img.shields.io/badge/LinkedIn-reshandytaftazani-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/reshandy-taftazani-aulya/"><img src="https://img.shields.io/badge/LinkedIn-reshandy--taftazani--aulya-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:reshandy.taftazani@ui.ac.id"><img src="https://img.shields.io/badge/Email-reshandy.taftazani%40ui.ac.id-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Alma_Mater-Universitas_Indonesia-F7B500?style=flat-square&logo=academia&logoColor=black" alt="Universitas Indonesia" />
   <img src="https://img.shields.io/badge/Focus-MLE_%26_Systems-10B981?style=flat-square" alt="Focus" />
@@ -248,7 +248,7 @@ A local-first machine learning experimentation platform engineered for tabular d
 ## Contact
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/reshandytaftazani/">
+  <a href="https://www.linkedin.com/in/reshandy-taftazani-aulya/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
