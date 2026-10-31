@@ -225,18 +225,21 @@ A local-first machine learning experimentation platform engineered for tabular d
 
 <div align="center">
 
-<table border="0">
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=reshandytaftazani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=7dcfff&text_color=a9b1d6" alt="GitHub Stats" width="100%" />
+    <td width="50%" align="center" valign="middle">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=reshandytaftazani&show_icons=true&bg_color=0d1117&title_color=10B981&icon_color=10B981&text_color=c9d1d9&border_color=30363d&border_radius=8" alt="GitHub Stats" width="100%" />
     </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=reshandytaftazani&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=a9b1d6" alt="Top Languages" width="100%" />
+    <td width="50%" align="center" valign="middle">
+      <img src="https://streak-stats.demolab.com/?user=reshandytaftazani&background=0d1117&border=30363d&stroke=10B981&ring=10B981&fire=10B981&currStreakNum=10B981&sideNums=c9d1d9&currStreakLabel=10B981&sideLabels=8b949e&dates=8b949e&border_radius=8" alt="GitHub Streak" width="100%" />
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com/?user=reshandytaftazani&theme=tokyonight&hide_border=true&background=1a1b26&stroke=7aa2f7&ring=7aa2f7&fire=ff9e64&currStreakNum=c0caf5&sideNums=c0caf5&currStreakLabel=7aa2f7&sideLabels=7aa2f7&dates=a9b1d6" alt="GitHub Streak" width="100%" />
+    <td width="50%" align="center" valign="middle">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=reshandytaftazani&layout=compact&card_width=420&bg_color=0d1117&title_color=10B981&text_color=c9d1d9&border_color=30363d&border_radius=8" alt="Top Languages" width="100%" />
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <img src="./assets/activity-compact.svg" alt="Commit Velocity" width="100%" />
     </td>
   </tr>
 </table>

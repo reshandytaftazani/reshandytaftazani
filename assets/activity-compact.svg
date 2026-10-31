@@ -1,0 +1,144 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 495 195" width="100%" height="195" fill="none">
+  <defs>
+    <rect id="compact-card-bg" width="495" height="195" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1" />
+
+    <style><![CDATA[
+      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;600&family=Inter:wght@400;500;600;700&display=swap');
+
+      text {
+        font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      }
+      .mono {
+        font-family: 'Fira Code', monospace;
+      }
+
+      .hdr-title {
+        font-size: 13px;
+        font-weight: 600;
+        fill: #10B981;
+      }
+      .hdr-stat-lbl {
+        font-size: 9px;
+        fill: #8b949e;
+        text-transform: uppercase;
+        letter-spacing: 0.04em;
+      }
+      .hdr-stat-val {
+        font-size: 11px;
+        font-weight: 600;
+        fill: #f0f6fc;
+      }
+      .axis-tick {
+        font-size: 9px;
+        fill: #6e7681;
+      }
+      .grid-line {
+        stroke: #21262d;
+        stroke-width: 1px;
+        stroke-dasharray: 2, 4;
+      }
+
+      /* Bar Rise Animation */
+      .bar {
+        transform-box: fill-box;
+        transform-origin: bottom;
+        animation: barGrow 0.6s cubic-bezier(0.16, 1, 0.3, 1) both;
+      }
+
+      @keyframes barGrow {
+        from {
+          transform: scaleY(0);
+          opacity: 0;
+        }
+        to {
+          transform: scaleY(1);
+          opacity: 1;
+        }
+      }
+    ]]></style>
+  </defs>
+
+  <!-- Container -->
+  <use href="#compact-card-bg" />
+
+  <!-- Header -->
+  <g transform="translate(20, 24)">
+    <circle cx="4" cy="4" r="3.5" fill="#10B981" />
+    <text x="14" y="8" class="hdr-title">Commit Velocity</text>
+    <text x="125" y="8" class="mono" font-size="10" fill="#8b949e">// 30-Day Stream</text>
+
+    <!-- Header Stats -->
+    <g transform="translate(320, -5)">
+      <text x="0" y="8" class="hdr-stat-lbl mono">Total</text>
+      <text x="0" y="21" class="hdr-stat-val mono" fill="#10B981">92</text>
+      <text x="50" y="8" class="hdr-stat-lbl mono">Avg/D</text>
+      <text x="50" y="21" class="hdr-stat-val mono">3.1</text>
+      <text x="100" y="8" class="hdr-stat-lbl mono">Peak</text>
+      <text x="100" y="21" class="hdr-stat-val mono" fill="#38bdf8">28</text>
+    </g>
+  </g>
+
+  <!-- Hairline Divider -->
+  <line x1="20" y1="42" x2="475" y2="42" stroke="#21262d" stroke-width="1" />
+
+  <!-- Grid & Ticks (Chart Area: Y from 54 to 144) -->
+  <g transform="translate(28, 54)">
+    <text x="-6" y="4" class="axis-tick mono" text-anchor="end">28</text>
+    <line x1="0" y1="0" x2="440" y2="0" class="grid-line" />
+
+    <text x="-6" y="34" class="axis-tick mono" text-anchor="end">18</text>
+    <line x1="0" y1="30" x2="440" y2="30" class="grid-line" />
+
+    <text x="-6" y="64" class="axis-tick mono" text-anchor="end">9</text>
+    <line x1="0" y1="60" x2="440" y2="60" class="grid-line" />
+
+    <text x="-6" y="94" class="axis-tick mono" text-anchor="end">0</text>
+    <line x1="0" y1="90" x2="440" y2="90" stroke="#30363d" stroke-width="1" />
+  </g>
+
+  <!-- 30 Bars -->
+  <g transform="translate(32, 54)">
+    <rect x="0" y="88" width="10" height="2" rx="1" fill="#21262d" />
+    <rect x="14" y="88" width="10" height="2" rx="1" fill="#21262d" />
+    <rect x="28" y="88" width="10" height="2" rx="1" fill="#21262d" />
+    <rect x="42" y="88" width="10" height="2" rx="1" fill="#21262d" />
+    <rect x="56" y="88" width="10" height="2" rx="1" fill="#21262d" />
+    <rect x="70" y="88" width="10" height="2" rx="1" fill="#21262d" />
+    <rect x="84" y="88" width="10" height="2" rx="1" fill="#21262d" />
+    <rect x="98" y="88" width="10" height="2" rx="1" fill="#21262d" />
+    <rect x="112" y="88" width="10" height="2" rx="1" fill="#21262d" />
+    <rect x="126" y="88" width="10" height="2" rx="1" fill="#21262d" />
+    <rect x="140" y="88" width="10" height="2" rx="1" fill="#21262d" />
+    <rect x="154" y="88" width="10" height="2" rx="1" fill="#21262d" />
+    <rect x="168" y="88" width="10" height="2" rx="1" fill="#21262d" />
+    <rect x="182" y="88" width="10" height="2" rx="1" fill="#21262d" />
+    <rect x="196" y="88" width="10" height="2" rx="1" fill="#21262d" />
+    <rect x="210" y="88" width="10" height="2" rx="1" fill="#21262d" />
+    <rect x="224" y="88" width="10" height="2" rx="1" fill="#21262d" />
+    <rect x="238" y="88" width="10" height="2" rx="1" fill="#21262d" />
+    <rect x="252" y="88" width="10" height="2" rx="1" fill="#21262d" />
+    <rect x="266" y="88" width="10" height="2" rx="1" fill="#21262d" />
+    <rect class="bar" style="animation-delay: 0.44s" x="280" y="87" width="10" height="3" rx="1.5" fill="#047857" />
+    <rect class="bar" style="animation-delay: 0.46s" x="294" y="81" width="10" height="9" rx="1.5" fill="#047857" />
+    <rect class="bar" style="animation-delay: 0.48s" x="308" y="84" width="10" height="6" rx="1.5" fill="#047857" />
+    <rect class="bar" style="animation-delay: 0.5s" x="322" y="74" width="10" height="16" rx="1.5" fill="#047857" />
+    <rect class="bar" style="animation-delay: 0.52s" x="336" y="36" width="10" height="54" rx="1.5" fill="#10B981" />
+    <rect class="bar" style="animation-delay: 0.54s" x="350" y="71" width="10" height="19" rx="1.5" fill="#047857" />
+    <rect class="bar" style="animation-delay: 0.56s" x="364" y="49" width="10" height="41" rx="1.5" fill="#059669" />
+    <rect class="bar" style="animation-delay: 0.58s" x="378" y="36" width="10" height="54" rx="1.5" fill="#10B981" />
+    <rect class="bar" style="animation-delay: 0.6s" x="392" y="0" width="10" height="90" rx="1.5" fill="#34D399" stroke="#10B981" stroke-width="1" />
+    <rect x="406" y="88" width="10" height="2" rx="1" fill="#21262d" />
+
+    <!-- Dashed Average Line -->
+    <line x1="0" y1="81" x2="420" y2="81" stroke="#38bdf8" stroke-width="1" stroke-dasharray="3, 3" opacity="0.8" />
+  </g>
+
+  <!-- X-Axis Labels -->
+  <g transform="translate(32, 165)">
+    <text x="0" y="0" class="axis-tick mono">Oct 02</text>
+    <text x="105" y="0" class="axis-tick mono">Oct 09</text>
+    <text x="210" y="0" class="axis-tick mono">Oct 17</text>
+    <text x="315" y="0" class="axis-tick mono">Oct 24</text>
+    <text x="405" y="0" class="axis-tick mono" fill="#10B981" font-weight="600">Today</text>
+  </g>
+</svg>
