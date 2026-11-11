@@ -70,9 +70,9 @@
     <!-- Header Stats -->
     <g transform="translate(320, -5)">
       <text x="0" y="8" class="hdr-stat-lbl mono">Total</text>
-      <text x="0" y="21" class="hdr-stat-val mono" fill="#10B981">271</text>
+      <text x="0" y="21" class="hdr-stat-val mono" fill="#10B981">273</text>
       <text x="50" y="8" class="hdr-stat-lbl mono">Avg/D</text>
-      <text x="50" y="21" class="hdr-stat-val mono">9.0</text>
+      <text x="50" y="21" class="hdr-stat-val mono">9.1</text>
       <text x="100" y="8" class="hdr-stat-lbl mono">Peak</text>
       <text x="100" y="21" class="hdr-stat-val mono" fill="#38bdf8">44</text>
     </g>
@@ -103,31 +103,31 @@
     <rect x="28" y="88" width="10" height="2" rx="1" fill="#21262d" />
     <rect x="42" y="88" width="10" height="2" rx="1" fill="#21262d" />
     <rect x="56" y="88" width="10" height="2" rx="1" fill="#21262d" />
-    <rect x="70" y="88" width="10" height="2" rx="1" fill="#21262d" />
-    <rect class="bar" style="animation-delay: 0.16s" x="84" y="50" width="10" height="40" rx="1.5" fill="#059669" />
-    <rect class="bar" style="animation-delay: 0.18s" x="98" y="74" width="10" height="16" rx="1.5" fill="#047857" />
-    <rect class="bar" style="animation-delay: 0.2s" x="112" y="84" width="10" height="6" rx="1.5" fill="#047857" />
-    <rect class="bar" style="animation-delay: 0.22s" x="126" y="86" width="10" height="4" rx="1.5" fill="#047857" />
-    <rect class="bar" style="animation-delay: 0.24s" x="140" y="80" width="10" height="10" rx="1.5" fill="#047857" />
-    <rect class="bar" style="animation-delay: 0.26s" x="154" y="62" width="10" height="28" rx="1.5" fill="#059669" />
-    <rect class="bar" style="animation-delay: 0.28s" x="168" y="84" width="10" height="6" rx="1.5" fill="#047857" />
-    <rect class="bar" style="animation-delay: 0.3s" x="182" y="80" width="10" height="10" rx="1.5" fill="#047857" />
-    <rect class="bar" style="animation-delay: 0.32s" x="196" y="39" width="10" height="51" rx="1.5" fill="#10B981" />
-    <rect class="bar" style="animation-delay: 0.34s" x="210" y="76" width="10" height="14" rx="1.5" fill="#047857" />
-    <rect class="bar" style="animation-delay: 0.36s" x="224" y="78" width="10" height="12" rx="1.5" fill="#047857" />
-    <rect class="bar" style="animation-delay: 0.38s" x="238" y="33" width="10" height="57" rx="1.5" fill="#10B981" />
-    <rect class="bar" style="animation-delay: 0.4s" x="252" y="0" width="10" height="90" rx="1.5" fill="#34D399" stroke="#10B981" stroke-width="1" />
-    <rect class="bar" style="animation-delay: 0.42s" x="266" y="68" width="10" height="22" rx="1.5" fill="#059669" />
-    <rect class="bar" style="animation-delay: 0.44s" x="280" y="48" width="10" height="42" rx="1.5" fill="#059669" />
-    <rect class="bar" style="animation-delay: 0.46s" x="294" y="39" width="10" height="51" rx="1.5" fill="#10B981" />
-    <rect class="bar" style="animation-delay: 0.48s" x="308" y="88" width="10" height="2" rx="1.5" fill="#047857" />
-    <rect class="bar" style="animation-delay: 0.5s" x="322" y="50" width="10" height="40" rx="1.5" fill="#059669" />
-    <rect class="bar" style="animation-delay: 0.52s" x="336" y="56" width="10" height="34" rx="1.5" fill="#059669" />
+    <rect class="bar" style="animation-delay: 0.14s" x="70" y="50" width="10" height="40" rx="1.5" fill="#059669" />
+    <rect class="bar" style="animation-delay: 0.16s" x="84" y="74" width="10" height="16" rx="1.5" fill="#047857" />
+    <rect class="bar" style="animation-delay: 0.18s" x="98" y="84" width="10" height="6" rx="1.5" fill="#047857" />
+    <rect class="bar" style="animation-delay: 0.2s" x="112" y="86" width="10" height="4" rx="1.5" fill="#047857" />
+    <rect class="bar" style="animation-delay: 0.22s" x="126" y="80" width="10" height="10" rx="1.5" fill="#047857" />
+    <rect class="bar" style="animation-delay: 0.24s" x="140" y="62" width="10" height="28" rx="1.5" fill="#059669" />
+    <rect class="bar" style="animation-delay: 0.26s" x="154" y="84" width="10" height="6" rx="1.5" fill="#047857" />
+    <rect class="bar" style="animation-delay: 0.28s" x="168" y="80" width="10" height="10" rx="1.5" fill="#047857" />
+    <rect class="bar" style="animation-delay: 0.3s" x="182" y="39" width="10" height="51" rx="1.5" fill="#10B981" />
+    <rect class="bar" style="animation-delay: 0.32s" x="196" y="76" width="10" height="14" rx="1.5" fill="#047857" />
+    <rect class="bar" style="animation-delay: 0.34s" x="210" y="78" width="10" height="12" rx="1.5" fill="#047857" />
+    <rect class="bar" style="animation-delay: 0.36s" x="224" y="33" width="10" height="57" rx="1.5" fill="#10B981" />
+    <rect class="bar" style="animation-delay: 0.38s" x="238" y="0" width="10" height="90" rx="1.5" fill="#34D399" stroke="#10B981" stroke-width="1" />
+    <rect class="bar" style="animation-delay: 0.4s" x="252" y="68" width="10" height="22" rx="1.5" fill="#059669" />
+    <rect class="bar" style="animation-delay: 0.42s" x="266" y="48" width="10" height="42" rx="1.5" fill="#059669" />
+    <rect class="bar" style="animation-delay: 0.44s" x="280" y="39" width="10" height="51" rx="1.5" fill="#10B981" />
+    <rect class="bar" style="animation-delay: 0.46s" x="294" y="88" width="10" height="2" rx="1.5" fill="#047857" />
+    <rect class="bar" style="animation-delay: 0.48s" x="308" y="50" width="10" height="40" rx="1.5" fill="#059669" />
+    <rect class="bar" style="animation-delay: 0.5s" x="322" y="56" width="10" height="34" rx="1.5" fill="#059669" />
+    <rect class="bar" style="animation-delay: 0.52s" x="336" y="84" width="10" height="6" rx="1.5" fill="#047857" />
     <rect class="bar" style="animation-delay: 0.54s" x="350" y="84" width="10" height="6" rx="1.5" fill="#047857" />
-    <rect class="bar" style="animation-delay: 0.56s" x="364" y="84" width="10" height="6" rx="1.5" fill="#047857" />
+    <rect x="364" y="88" width="10" height="2" rx="1" fill="#21262d" />
     <rect x="378" y="88" width="10" height="2" rx="1" fill="#21262d" />
-    <rect x="392" y="88" width="10" height="2" rx="1" fill="#21262d" />
-    <rect x="406" y="88" width="10" height="2" rx="1" fill="#21262d" />
+    <rect class="bar" style="animation-delay: 0.6s" x="392" y="88" width="10" height="2" rx="1.5" fill="#047857" />
+    <rect class="bar" style="animation-delay: 0.62s" x="406" y="88" width="10" height="2" rx="1.5" fill="#047857" />
 
     <!-- Dashed Average Line -->
     <line x1="0" y1="72" x2="420" y2="72" stroke="#38bdf8" stroke-width="1" stroke-dasharray="3, 3" opacity="0.8" />
@@ -135,10 +135,10 @@
 
   <!-- X-Axis Labels -->
   <g transform="translate(32, 165)">
-    <text x="0" y="0" class="axis-tick mono">Oct 12</text>
-    <text x="105" y="0" class="axis-tick mono">Oct 19</text>
-    <text x="210" y="0" class="axis-tick mono">Oct 27</text>
-    <text x="315" y="0" class="axis-tick mono">Nov 03</text>
+    <text x="0" y="0" class="axis-tick mono">Oct 13</text>
+    <text x="105" y="0" class="axis-tick mono">Oct 20</text>
+    <text x="210" y="0" class="axis-tick mono">Oct 28</text>
+    <text x="315" y="0" class="axis-tick mono">Nov 04</text>
     <text x="405" y="0" class="axis-tick mono" fill="#10B981" font-weight="600">Today</text>
   </g>
 </svg>
